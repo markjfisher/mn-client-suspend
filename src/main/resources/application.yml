@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: mn-client-suspend
+  http:
+    services:
+      service:
+        urls:
+          - http://localhost:8080/service
